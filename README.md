@@ -18,7 +18,6 @@ kol-emet/
 ├── sobre.html           # História, proposta sonora e influências
 ├── integrantes.html     # Cards com os 4 integrantes da banda
 ├── contato.html         # Formulário de contato + links de redes sociais
-├── 404.html              # Página de erro personalizada
 ├── css/
 │   └── style.css        # Estilo próprio (tokens, componentes, responsividade)
 ├── js/
@@ -40,7 +39,7 @@ nesses dois arquivos reflete em todo o site.
   navbar colapsável e o sistema de colunas (`row`/`col-*`). O visual customizado
   (cores, tipografia, cards de integrantes, hero) é todo feito em `style.css`,
   sobrepondo o tema padrão do Bootstrap.
-- **Identidade visual**: paleta escura (quase-preto, vermelho sangue abafado,
+- **Identidade visual**: paleta escura (quase-preto, amarelo
   dourado envelhecido) com tipografia condensada (Oswald) para títulos e
   serifada (Lora) para texto corrido — reforçando o contraste entre "grito" e
   "voz" sugerido pelo nome da banda.
