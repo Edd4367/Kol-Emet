@@ -18,6 +18,7 @@ kol-emet/
 ├── sobre.html           # História, proposta sonora e influências
 ├── integrantes.html     # Cards com os 4 integrantes da banda
 ├── contato.html         # Formulário de contato + links de redes sociais
+├── 404.html             # Página de erro 404 personalizada
 ├── css/
 │   └── style.css        # Estilo próprio (tokens, componentes, responsividade)
 ├── js/
